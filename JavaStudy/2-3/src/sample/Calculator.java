@@ -1,4 +1,4 @@
-package study;
+package sample;
 
 public class Calculator {
 
